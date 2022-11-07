@@ -10,7 +10,7 @@ import ProductsList from "./pages/ProductsList";
 function App() {
     return (
         <div className="App">
-            <Cart/>
+            <Product/>
 
         </div>
     );
